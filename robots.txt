@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tdtnguyen05-ux.github.io/Noi_That_T68_Sai_Gon/sitemap.xml
